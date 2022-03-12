@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16770" started-at="2022-03-12T09:39:20 UTC" finished-at="2022-03-12T09:39:36 UTC">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16770" started-at="2022-03-12T09:39:20 UTC" finished-at="2022-03-12T09:39:36 UTC">
+      <class name="testcases.LoginTest">
+        <test-method status="PASS" signature="DataSetUP()[pri:0, instance:testcases.LoginTest@6950e31]" name="DataSetUP" is-config="true" duration-ms="738" started-at="2022-03-12T09:39:20 UTC" finished-at="2022-03-12T09:39:20 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataSetUP -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testcases.LoginTest@6950e31]" name="SetUp" is-config="true" duration-ms="3522" started-at="2022-03-12T09:39:20 UTC" finished-at="2022-03-12T09:39:24 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ExternalDataTest()[pri:0, instance:testcases.LoginTest@6950e31]" name="ExternalDataTest" duration-ms="3542" started-at="2022-03-12T09:39:24 UTC" finished-at="2022-03-12T09:39:27 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExternalDataTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.LoginTest@6950e31]" name="TearDown" is-config="true" duration-ms="137" started-at="2022-03-12T09:39:27 UTC" finished-at="2022-03-12T09:39:28 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testcases.LoginTest@6950e31]" name="SetUp" is-config="true" duration-ms="1364" started-at="2022-03-12T09:39:28 UTC" finished-at="2022-03-12T09:39:29 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="LoginFailureTest()[pri:0, instance:testcases.LoginTest@6950e31]" name="LoginFailureTest" duration-ms="3779" started-at="2022-03-12T09:39:29 UTC" finished-at="2022-03-12T09:39:33 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFailureTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.LoginTest@6950e31]" name="TearDown" is-config="true" duration-ms="112" started-at="2022-03-12T09:39:33 UTC" finished-at="2022-03-12T09:39:33 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testcases.LoginTest@6950e31]" name="SetUp" is-config="true" duration-ms="1553" started-at="2022-03-12T09:39:33 UTC" finished-at="2022-03-12T09:39:34 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="LoginSuccessTest()[pri:0, instance:testcases.LoginTest@6950e31]" name="LoginSuccessTest" duration-ms="1594" started-at="2022-03-12T09:39:34 UTC" finished-at="2022-03-12T09:39:36 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginSuccessTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.LoginTest@6950e31]" name="TearDown" is-config="true" duration-ms="125" started-at="2022-03-12T09:39:36 UTC" finished-at="2022-03-12T09:39:36 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="DataTearDown()[pri:0, instance:testcases.LoginTest@6950e31]" name="DataTearDown" is-config="true" duration-ms="275" started-at="2022-03-12T09:39:36 UTC" finished-at="2022-03-12T09:39:36 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataTearDown -->
+      </class> <!-- testcases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
